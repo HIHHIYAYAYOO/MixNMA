@@ -1,8 +1,8 @@
 # MixNMA
-本 APP 為結合輕小說文庫(wenku8)、拷貝漫畫(CopyManga)、熱辣漫畫(HotManga)的第三方APP，實現將小說、漫畫及動畫集於一身的
-Novel
-Manga
-Anime
+* 本 APP 為結合輕小說文庫(wenku8)、拷貝漫畫(CopyManga)、熱辣漫畫(HotManga)的第三方APP，實現將小說、漫畫及動畫集於一身的
+* Novel
+* Manga
+* Anime
 
 ## 簡易介紹
 * 本 APP 主要透過以下三個網站 API 獲取資源
