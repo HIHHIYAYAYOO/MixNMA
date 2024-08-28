@@ -1,16 +1,17 @@
-# mixnma
+# MixNMA
+本 APP 為結合輕小說文庫(wenku8)、拷貝漫畫(CopyManga)、熱辣漫畫(HotManga)的第三方APP，實現將小說、漫畫及動畫集於一身的
+Novel
+Manga
+Anime
 
-A new Flutter project.
+## 簡易介紹
+* 本 APP 主要透過以下三個網站 API 獲取資源
+* 由於本 APP 寫的程式碼太醜整在重構中...
+* 輕小說文庫(www.wenku8.com)
+* 拷貝漫畫(https://www.mangacopy.com/)
+* 熱辣漫畫(https://www.relamanhua.com/)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 參考資料
+* https://github.com/kamiya10/wenku8-flutter
+* https://github.com/koudaiai/CopyMangaX/tree/00c4de898d86ef4d966df811217ea8107d9b9ca3
+* https://github.com/MewX/light-novel-library_Wenku8_Android
