@@ -6,7 +6,7 @@
 
 ## 簡易介紹
 * 本 APP 主要透過以下三個網站 API 獲取資源
-* 由於本 APP 寫的程式碼太醜整在重構中...
+* 由於本 APP 寫的程式碼太醜正在重構中...
 * 輕小說文庫(www.wenku8.com)
 * 拷貝漫畫(https://www.mangacopy.com/)
 * 熱辣漫畫(https://www.relamanhua.com/)
